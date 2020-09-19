@@ -68,11 +68,11 @@ else:
     sys.exit('[ System Message ] - Login Failed.')
     
 oepoll = OEPoll(dhenzaSelfbot)
-call = dhenzaSelfbot
-creator = ["ub1c5a71f27b863896e9d44bea857d35b"]
-owner = ["ub1c5a71f27b863896e9d44bea857d35b"]
-admin = ["ub1c5a71f27b863896e9d44bea857d35b"]
-staff = ["ub1c5a71f27b863896e9d44bea857d35b"]
+call = Verro
+creator = ["u54cf64f6f595af772115e69a04e4a649"]
+owner = ["u54cf64f6f595af772115e69a04e4a649"]
+admin = ["u54cf64f6f595af772115e69a04e4a649"]
+staff = ["u54cf64f6f595af772115e69a04e4a649"]
 mid = dhenzaSelfbot.getProfile().mid
 Bots = [mid]
 AKU = [dhenzaSelfbot]
@@ -266,11 +266,8 @@ wait = {
             "statusMessage": ""
             },
     "mention":"nah loh ketahuan ngintip msh aja sider",
-    "Respontag":"Apa syang 😍 ",
+    "Respontag":"Ada apaan ",
     "welcome":"Wellcome to my Fams",
-    "comment":"ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\n™S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ\n\n\n\nᴄʀᴇᴀᴛᴏʀ:\nhttp://line.me/ti/p/~teambotprotect\nɢɪᴛhᴜʙ:\ngithub.com/dhenza1415\nchanel ʏᴏᴜᴛᴜʙᴇ:\nhttps://youtu.be/CRqXKcTl6IY\n\nnew ᴄʜᴀɴᴇʟ:\nhttps://youtu.be/6UGH_4gG9qk",
-    "message":"ᴄɪᴇᴇ ᴋᴇᴛᴀʜᴜᴀɴ ɴɢᴇ ᴀᴅᴅ\nᴍᴀᴋᴀsɪʜ ʏᴀ sᴜᴅᴀʜ ᴀᴅᴅ..\n\n\n\n\n™S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ\n\n\n\nᴄʀᴇᴀᴛᴏʀ:\nhttp://line.me/ti/p/~teambotprotect\nɢɪᴛhᴜʙ:\ngithub.com/dhenza1415\nchanel ʏᴏᴜᴛᴜʙᴇ:\nhttps://youtu.be/CRqXKcTl6IY\n\nnew ᴄʜᴀɴᴇʟ:\nhttps://youtu.be/6UGH_4gG9qk",
-}
 
 
 read = {
@@ -727,10 +724,8 @@ def help():
     helpMessage += "│ " + " │ %i)" % num + key + "welcome on/off\n"
     num = (num+1)
     helpMessage += "│ " + " ├──────────────\n"
-    helpMessage += "│ " + " ╰───• sʙ ʙʏ ©ᴅʜᴇɴᴢᴀ™ •────\n"
+    helpMessage += "│ " + " ╰───• sʙ ʙʏ ©Verro™ •────\n"
     helpMessage += "╰━─────────────━ \n"
-    helpMessage += "https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw\n"
-    helpMessage += "https://youtu.be/iwZuig9flas"
     return helpMessage
 
 def helpbot():
@@ -843,10 +838,8 @@ def helpbot():
     helpMessage2 += "│" + " │ %i)" % num + key + " Ssider: kata\n"
     num = (num+1)
     helpMessage2 += "│ " + "├──────────────\n"
-    helpMessage2 += "│ " + "╰───• sʙ ʙʏ ©ᴅʜᴇɴᴢᴀ™ •────\n"
+    helpMessage2 += "│ " + "╰───• sʙ ʙʏ ©Verro™ •────\n"
     helpMessage2 += "╰━────────────━ \n"
-    helpMessage2 += "https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw\n"
-    helpMessage2 += "https://youtu.be/iwZuig9flas"
     return helpMessage2
     
 def helpmedia():
@@ -893,8 +886,6 @@ def helpmedia():
     helpMessage3 += "│ " + " ├──────────────\n"
     helpMessage3 += "│ " + " ╰───• sʙ ʙʏ ©ᴅʜᴇɴᴢᴀ™ •────\n"
     helpMessage3 += "╰━────────────━ \n"
-    helpMessage3 += "https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw\n"
-    helpMessage3 += "https://youtu.be/iwZuig9flas"
     return helpMessage3    
 
 def bot(op):
@@ -1275,7 +1266,7 @@ def bot(op):
                         pass
                     else:
                         cctv['sidermem'][op.param1] += "\n " + Name
-                        teambotmaxZ={'previewUrl': "http://dl.profile.line-cdn.net/"+dhenzaSelfbot.getContact(op.param2).picturePath, 'i-installUrl': 'http://itunes.apple.com/app/linemusic/id966142320', 'type': 'mt', 'subText': 'creator : dhenza15', 'a-installUrl': 'market://details?id=jp.linecorp.linemusic.android', 'a-packageName': 'jp.linecorp.linemusic.android', 'countryCode': 'JP', 'a-linkUri': 'linemusic://open?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1', 'i-linkUri': 'linemusic://open?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1', 'text': dhenzaSelfbot.getContact(op.param2).displayName, 'id': 'mt000000000d69e2db', 'linkUri': 'https://music.me.me/launch?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1','MSG_SENDER_ICON': "https://os.line.naver.jp/os/p/"+op.param2,'MSG_SENDER_NAME':  dhenzaSelfbot.getContact(op.param2).displayName,}
+                        teambotmaxZ={'previewUrl': "http://dl.profile.line-cdn.net/"+dhenzaSelfbot.getContact(op.param2).picturePath, 'i-installUrl': 'http://itunes.apple.com/app/linemusic/id966142320', 'type': 'mt', 'subText': 'creator : Verro', 'a-installUrl': 'market://details?id=jp.linecorp.linemusic.android', 'a-packageName': 'jp.linecorp.linemusic.android', 'countryCode': 'JP', 'a-linkUri': 'linemusic://open?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1', 'i-linkUri': 'linemusic://open?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1', 'text': dhenzaSelfbot.getContact(op.param2).displayName, 'id': 'mt000000000d69e2db', 'linkUri': 'https://music.me.me/launch?target=track&item=mb00000000016197ea&subitem=mt000000000d69e2db&cc=JP&from=lc&v=1','MSG_SENDER_ICON': "https://os.line.naver.jp/os/p/"+op.param2,'MSG_SENDER_NAME':  dhenzaSelfbot.getContact(op.param2).displayName,}
                         dhenzaSelfbot.sendMessage(op.param1, dhenzaSelfbot.getContact(op.param2).displayName, teambotmaxZ, 19)
 
 
@@ -1462,31 +1453,7 @@ def bot(op):
                                         dhenzaSelfbot.sendMessage(msg.to,arg)
                         except Exception as error:
                             print (error)
-                              
-        if op.type == 26:           
-            msg = op.message
-            text = msg.text
-            msg_id = msg.id
-            receiver = msg.to
-            sender = msg._from
-            if msg.toType == 0 or msg.toType == 2:
-               if msg.toType == 0:
-                    to = receiver
-               elif msg.toType == 2:
-                    to = receiver
-               if msg.contentType == 7:
-                 if wait["sticker"] == True:
-                    msg.contentType = 0
-                    dhenzaSelfbot.sendMessage(msg.to,"STKID : " + msg.contentMetadata["STKID"] + "\nSTKPKGID : " + msg.contentMetadata["STKPKGID"] + "\nSTKVER : " + msg.contentMetadata["STKVER"]+ "\n\n「Link Sticker」" + "\nline://shop/detail/" + msg.contentMetadata["STKPKGID"])
-               if msg.contentType == 16:
-                  if msg.toType in (2,1,0):
-                     try:
-                         mat = msg.contentMetadata["postEndUrl"].split('userMid=')[1].split('&postId=')
-                         dhenzaSelfbot.likePost(mat[0], mat[1], 1003)
-                         dhenzaSelfbot.createComment(mat[0], mat[1], "ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\n™S̶̭̗̞̙̿͑̽̆̃̒į̷̙̝̦̤̜̗́̉ͅl̸̛͓͋͋͆̍ę̶͇̮̦̣̖̙̘̪̉n̸͍̦͉̖̟͚̗̣̍̓̽̅̚ť̴̙͋ ̷̨̳̠͎̮̘͇̀̅̀͒̈́͊̕͝T̸̡̯̗̩̺͉̑́͛̌̒ͅé̶̡̱̯̮̯̊̏́̀̃͜a̴̭͓̫͚̐́̂̍̂̊̋̚m̸̨̨̹͎͍̳̥͆̓͗̿͐͗͑̿̓͠ ̴̠͐̂B̷̛̳͎̫̻̫̯̣͓̲͋̀͋̋͊̈͗͑o̵̲̾̈́͒͗t̴̢͍̫̰̠̞͖͍̬̑̊̽͒́̈́͗ͅ\n\n\n\nᴄʀᴇᴀᴛᴏʀ:\nhttp://line.me/ti/p/~teambotprotect\nɢɪᴛhᴜʙ:\ngithub.com/dhenza1415\nchanel ʏᴏᴜᴛᴜʙᴇ:\nhttps://youtu.be/CRqXKcTl6IY\n\nnew ᴄʜᴀɴᴇʟ:\nhttps://youtu.be/6UGH_4gG9qk")
-                     except Exception as e:
-                         dhenzaSelfbot.sendMessage(msg.to, str(e))  
-                            
+                                                  
         if op.type == 25 or op.type == 26:
             msg = op.message
             text = msg.text
@@ -2098,8 +2065,7 @@ def bot(op):
                                 else: md+="│╠══[ OFF ] ᴊs❌\n"                                
                                 if msg.to in protectcancel: md+="│╠══[  ON  ] ᴘʀᴏᴛᴇᴄᴛᴄᴀɴᴄᴇʟ✔️\n"
                                 else: md+="│╠══[ OFF ] ᴘʀᴏᴛᴇᴄᴛᴄᴀɴᴄᴇʟ❌\n"
-                                md+= "│╚══[ TΣΔM βΩT PRΩTΣCTsᴋ ]"
-                                md+= " https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw"
+                                md+= "│╚══[ Verro ]"
                                 dhenzaSelfbot.sendMessage(msg.to, md+"\n│ᴛᴀɴɢɢᴀʟ : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\n│ᴊᴀᴍ  "+ datetime.strftime(timeNow,'%H:%M:%S')+" ")   
                                 
                           
@@ -2129,7 +2095,7 @@ def bot(op):
                                dhenzaSelfbot.sendMessage(msg.to, msg._from)
                                
                         elif text.lower() == "dz":
-                               dhenzaSelfbot.sendMessage(msg.to, "hallo jangan lupa di subscribe ya kk chanel kita\n https://www.youtube.com/channel/UCNLejYy84XyUX8qcDropXMw")
+                               dhenzaSelfbot.sendMessage(msg.to, "hallo jangan lupa follow instagram Verro")
 
                         elif ("Get id " in msg.text):
                           if wait["selfbot"] == True:
@@ -2187,7 +2153,7 @@ def bot(op):
                                pesan = text.replace(sep[0] + " ","")
                                saya = dhenzaSelfbot.getGroupIdsJoined()
                                for group in saya:
-                                   dhenzaSelfbot.sendMessage(group,"ʙʀᴏᴀᴅᴄᴀsᴛ ʙʏ ©ᴅʜᴇɴᴢᴀ™\n\n" + str(pesan))
+                                   dhenzaSelfbot.sendMessage(group,"ʙʀᴏᴀᴅᴄᴀsᴛ ʙʏ ©Verro\n\n" + str(pesan))
                                                            
                         elif text.lower() == "cek name":
                           if wait["selfbot"] == True:
@@ -2880,26 +2846,7 @@ def bot(op):
                                 dhenzaSelfbot.sendImageWithURL(msg.to, url)
                             except Exception as error:
                                 pass
-   #New                      	
-                        elif cmd.startswith('like '):
-                        	if msg._from in owner or msg._from in admin or msg._from in staff or msg._from in mid:
-                                    try:
-                                        typel = [1001,1002,1003,1004,1005,1006]
-                                        key = eval(msg.contentMetadata["MENTION"])
-                                        u = key["MENTIONEES"][0]["M"]
-                                        a = dhenzaSelfbot.getContact(u).mid
-                                        s = dhenzaSelfbot.getContact(u).displayName
-                                        hasil = dhenzaSelfbot.getHomeProfile(a)
-                                        st = hasil['result']['feeds']
-                                        for i in range(len(st)):
-                                            test = st[i]
-                                            result = test['post']['postInfo']['postId']
-                                            dhenzaSelfbot.likePost(str(sender), str(result), likeType=random.choice(typel))
-                                            dhenzaSelfbot.createComment(str(sender), str(result), 'Autolike by dhenza15\nhttp://line.me/ti/p/~teambotprotect\n\nlike suport By TBP SILENTKILLER')
-                                        dhenzaSelfbot.sendMessage(receiver, 'Done Like+Comment '+str(len(st))+' Post From' + str(s))
-                                    except Exception as e:
-                                        dhenzaSelfbot.sendMessage(receiver, str(e))     
-                                        
+   #New                      	             
                         elif cmd.startswith("add friend "):
                         	if msg._from in owner or msg._from in admin or msg._from in staff or msg._from in mid:
                                     if 'MENTION' in msg.contentMetadata.keys()!= None:
